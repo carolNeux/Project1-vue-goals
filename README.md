@@ -1,7 +1,7 @@
 # Project1-vue-goals
 Activity planner app
 
-****COMMITs*******
+****COMMITS*******
 
 Initializing project (Lesson 59)
 Introduction to Activity Planner App (Lesson 60)
